@@ -65,4 +65,4 @@ botao("Clique", () => alert("Funcionou"));
 
 ## Licenca
 
-&copy; 2026 Lucas Gabriel (lucmsilva). Sobre [LICENSE](BSD-3-Clause).
+&copy; 2026 Lucas Gabriel (lucmsilva). Sobre [BSD-3-Clause](LICENSE).
