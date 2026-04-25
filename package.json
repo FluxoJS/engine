@@ -1,0 +1,41 @@
+{
+  "name": "@fluxojs/engine",
+  "version": "0.1.1",
+  "description": "Fluxo: API simples em portugues para montar e estilizar paginas web com JavaScript encadeavel.",
+  "keywords": [
+    "enginejs",
+    "fluxo",
+    "dom",
+    "frontend",
+    "javascript",
+    "html"
+  ],
+  "homepage": "https://github.com/FluxoJS/engine#readme",
+  "bugs": {
+    "url": "https://github.com/FluxoJS/engine/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FluxoJS/engine.git"
+  },
+  "license": "BSD-3-Clause",
+  "author": "Lucas Gabriel (lucmsilva)",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js",
+    "src/**/*.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "sideEffects": false
+}
